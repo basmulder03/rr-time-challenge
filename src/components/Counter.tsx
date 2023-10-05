@@ -76,6 +76,7 @@ const Counter = () => {
   return (
     <div className="counterDiv">
       <div className="doublecard days">
+        <span className="title">Days</span>
         <Card
           number={counterDown.days[0]}
           bottomNumber={secondCounterDown.days[0]}
@@ -86,6 +87,7 @@ const Counter = () => {
         />
       </div>
       <div className="doublecard hours">
+        <span className="title">Hours</span>
         <Card
           number={counterDown.hours[0]}
           bottomNumber={secondCounterDown.hours[0]}
@@ -96,6 +98,7 @@ const Counter = () => {
         />
       </div>
       <div className="doublecard minutes">
+        <span className="title">Minutes</span>
         <Card
           number={counterDown.minutes[0]}
           bottomNumber={secondCounterDown.minutes[0]}
@@ -106,6 +109,7 @@ const Counter = () => {
         />
       </div>
       <div className="doublecard seconds">
+        <span className="title">Seconds</span>
         <Card
           number={counterDown.seconds[0]}
           bottomNumber={secondCounterDown.seconds[0]}

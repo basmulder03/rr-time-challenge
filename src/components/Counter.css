@@ -1,6 +1,6 @@
 .counterDiv {
     flex: 1;
-    justify-content: space-evenly;
+    justify-content: center;
     color: white;
     display: flex;
     flex-direction: row;
@@ -8,4 +8,14 @@
 
 .doublecard {
     display: flex;
+}
+
+.title {
+    font-size: 20px;
+    position: relative;
+    top: -20%;
+    left: 50%;
+    color: white;
+    font-weight: bold;
+    font-family: 'Athletic', Arial, Helvetica, sans-serif;
 }

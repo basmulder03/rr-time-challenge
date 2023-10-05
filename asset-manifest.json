@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rr-time-challenge/static/css/main.9c48d65d.css",
+    "main.css": "/rr-time-challenge/static/css/main.61756edf.css",
     "main.js": "/rr-time-challenge/static/js/main.6ef9d2d3.js",
     "static/media/Roboto-Regular.ttf": "/rr-time-challenge/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/NewAthleticM54-31vz.ttf": "/rr-time-challenge/static/media/NewAthleticM54-31vz.b0d68a4c354b812620ed.ttf",
     "index.html": "/rr-time-challenge/index.html",
-    "main.9c48d65d.css.map": "/rr-time-challenge/static/css/main.9c48d65d.css.map",
+    "main.61756edf.css.map": "/rr-time-challenge/static/css/main.61756edf.css.map",
     "main.6ef9d2d3.js.map": "/rr-time-challenge/static/js/main.6ef9d2d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c48d65d.css",
+    "static/css/main.61756edf.css",
     "static/js/main.6ef9d2d3.js"
   ]
 }

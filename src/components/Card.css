@@ -9,7 +9,7 @@
 }
 
 :root {
-    --card-flip-duration: 0.5s;
+    --card-flip-duration: 0.2s;
 }
 
 .card {
@@ -32,6 +32,7 @@
 .card span.top {
     background-color: rgb(230,230,230);
     clip-path: polygon(0% 0%, 0% 50%, 100% 50%, 100% 0%);
+    border-top: 1px solid darkgray;
 }
 
 .card .top-layer span.top.animate {
@@ -41,6 +42,7 @@
 .card span.bottom {
     background-color: rgb(255, 255, 255);
     clip-path: polygon(100% 100%, 100% 50%, 0% 50%, 0% 100%);
+    border-bottom: 1px solid darkgray;
 }
 
 .card .bottom-layer span.bottom.animate {

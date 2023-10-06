@@ -49,7 +49,7 @@ export const gameDates: GameDate = {
     [DaysOfWeek.FRIDAY]: [
       {
         hour: 13,
-        minutes: 00,
+        minutes: 0,
       },
       {
         hour: 16,

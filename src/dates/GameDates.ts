@@ -49,7 +49,7 @@ export const gameDates: GameDate = {
       },
       {
         hour: 16,
-        minutes: 30,
+        minutes: 0,
       },
     ],
   };
